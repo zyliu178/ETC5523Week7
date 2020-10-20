@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "zyliu16@student.monash.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Contains data and examples from CWD course
+Description: Contains data and examples from CWD course.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
