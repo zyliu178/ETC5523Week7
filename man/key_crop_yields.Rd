@@ -14,7 +14,7 @@ The data below comes from Our World in Data and source from Tidy Tuesday.
 key_crop_yields
 }
 \description{
-This data set contains crop yields from 249 countries
+This data set contains crop yields from \strong{249 countries}
 }
 \details{
 TODO: Add description of the columns
